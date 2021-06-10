@@ -1,0 +1,22 @@
+.container {
+  margin-top: 150px;
+  text-align: center;
+}
+
+.btn {
+  padding: 8px 16px;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #d8ebfb;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #b9defb;
+}
+
+.secret {
+  display: none;
+  font-family: 'Courier New', Courier, monospace;
+}
